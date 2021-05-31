@@ -18,11 +18,11 @@ Here's the reference architecture for the event check in.
 ---
 
 ## Agenda
-0. Install prerequisites
-1. Run CloudFormation Stack template for infrastructure
-2. Upload Registration Image to Amazon S3
-3. Download and configure the app
-4. Launch and run the App
+0. [Install prerequisites](## 0. Install prerequisites)
+1. [Run CloudFormation Stack template for infrastructure](## 1. Run CloudFormation Stack template for infrastructure)
+2. [Upload Registration Image to Amazon S3](## 2. Upload Registration Image to Amazon S3)
+3. [Download and configure the app](## 3. Download and configure the app)
+4. [Launch and run the App](## 4. Launch and run the App)
 
 ---
 ## 0. Install prerequisites
