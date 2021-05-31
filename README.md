@@ -14,6 +14,7 @@ Here's the reference architecture for the event check in.
 3. OpenCV version 4.1.0 or recent
 4. Boto3 python installed
 5. git installed to access repository locally
+6. Prepare 1 selfie on .jpg format
 
 ---
 ## Prerequisites version that has been used for current demo
@@ -27,7 +28,7 @@ Here's the reference architecture for the event check in.
 ---
 
 ## Agenda
-0. Install prerequisites
+0. Install prerequisites (you can skip if you have installed all of the prerequisites)
 1. Run CloudFormation Stack template for infrastructure
 2. Upload Registration Image to Amazon S3
 3. Download and configure the app
@@ -50,7 +51,7 @@ Here's the reference architecture for the event check in.
 
 ---
 ## 1. Run CloudFormation Stack template for infrastructure
-
+- Please download [this template file](file/auto-check-in-app.template) on your local computer
 
 ---
 ## 2. Upload Registration Image to Amazon S3
