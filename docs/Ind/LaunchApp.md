@@ -15,6 +15,6 @@ sekarang, kamera anda akan menyala dan mohon untuk meletakkan wajah anda didepan
 
 5. untuk mematikannya, klik control + c dalam terminal anda.
 
-[KEMBALI KE PETUNJUK WORKSHOP](../../IndonesiaGuide.md)
+[KEMBALI KE PETUNJUK WORKSHOP :house:](../../IndonesiaGuide.md)
 
-[KEMBALI KE PETUNJUK SEBELUMNYA](ConfigureApp.md)
+[KEMBALI KE PETUNJUK SEBELUMNYA :arrow_left:](ConfigureApp.md)

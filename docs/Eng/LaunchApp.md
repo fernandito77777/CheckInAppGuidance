@@ -15,6 +15,6 @@ now, your camera will turn on and please hover your face towards the camera for 
 
 5. to turn it off, click control + c on your terminal.
 
-[BACK TO WORKSHOP GUIDE](../../EnglishGuide.md)
+[BACK TO WORKSHOP GUIDE :house:](../../EnglishGuide.md)
 
-[BACK TO PREVIOUS GUIDE](ConfigureApp.md)
+[BACK TO PREVIOUS GUIDE :arrow_left:](ConfigureApp.md)

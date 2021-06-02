@@ -12,8 +12,8 @@
 7. if the upload is correct, you won't see your image on the bucket.
     ![](../../images/UploadImageS3/7.png)
 
-[BACK TO WORKSHOP GUIDE](../../EnglishGuide.md)
+[BACK TO WORKSHOP GUIDE :house:](../../EnglishGuide.md)
 
-[CONTINUE TO NEXT GUIDE](ConfigureApp.md)
+[CONTINUE TO NEXT GUIDE :arrow_right:](ConfigureApp.md)
 
-[BACK TO PREVIOUS GUIDE](CloudFormationStack.md)
+[BACK TO PREVIOUS GUIDE :arrow_left:](CloudFormationStack.md)

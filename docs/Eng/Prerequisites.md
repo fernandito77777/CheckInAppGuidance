@@ -13,6 +13,6 @@
 - Git
     refer to this page for [installing git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your local computer
 
-[BACK TO WORKSHOP GUIDE](../../EnglishGuide.md)
+[BACK TO WORKSHOP GUIDE :house:](../../EnglishGuide.md)
 
-[CONTINUE TO NEXT GUIDE](CloudFormationStack.md)
+[CONTINUE TO NEXT GUIDE :arrow_right:](CloudFormationStack.md)

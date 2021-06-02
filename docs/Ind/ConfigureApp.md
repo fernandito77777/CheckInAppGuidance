@@ -78,8 +78,8 @@ print('OpenCV version: {}'.format(cv2.__version__))
 assert major >= '4' and minor >= '1', 'OpenCV version must be at least 4.1'
 ```
 
-[KEMBALI KE PETUNJUK WORKSHOP](../../IndonesiaGuide.md)
+[KEMBALI KE PETUNJUK WORKSHOP :house:](../../IndonesiaGuide.md)
 
-[LANJUT KE PETUNJUK SELANJUTNYA](LaunchApp.md)
+[LANJUT KE PETUNJUK SELANJUTNYA :arrow_right:](LaunchApp.md)
 
-[KEMBALI KE PETUNJUK SEBELUMNYA](UploadImageS3.md)
+[KEMBALI KE PETUNJUK SEBELUMNYA :arrow_left:](UploadImageS3.md)

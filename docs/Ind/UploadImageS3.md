@@ -12,8 +12,8 @@
 7. Jika proses pengunggahan berhasil, anda tidak dapat melihat gambar anda dalam *bucket*.
     ![](../../images/UploadImageS3/7.png)
 
-[KEMBALI KE PETUNJUK WORKSHOP](../../IndonesiaGuide.md)
+[KEMBALI KE PETUNJUK WORKSHOP :house:](../../IndonesiaGuide.md)
 
-[LANJUT KE PETUNJUK SELANJUTNYA](ConfigureApp.md)
+[LANJUT KE PETUNJUK SELANJUTNYA :arrow_right:](ConfigureApp.md)
 
-[KEMBALI KE PETUNJUK SEBELUMNYA](CloudFormationStack.md)
+[KEMBALI KE PETUNJUK SEBELUMNYA :arrow_left:](CloudFormationStack.md)
