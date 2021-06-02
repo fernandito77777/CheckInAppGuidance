@@ -79,5 +79,7 @@ assert major >= '4' and minor >= '1', 'OpenCV version must be at least 4.1'
 ```
 
 [KEMBALI KE PETUNJUK WORKSHOP](../../IndonesiaGuide.md)
+
 [LANJUT KE PETUNJUK SELANJUTNYA](LaunchApp.md)
+
 [KEMBALI KE PETUNJUK SEBELUMNYA](UploadImageS3.md)

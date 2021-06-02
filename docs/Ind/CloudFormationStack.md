@@ -33,5 +33,7 @@ Proses ini akan memakan waktu sementara untuk mempersiapkan *stack* infrastruktu
     ![](../../images/CloudFormationStack/12.png)
 
 [KEMBALI KE PETUNJUK WORKSHOP](../../IndonesiaGuide.md)
+
 [LANJUT KE PETUNJUK SELANJUTNYA](UploadImageS3.md)
+
 [KEMBALI KE PETUNJUK SEBELUMNYA](Prerequisites.md)

@@ -13,5 +13,7 @@
     ![](../../images/UploadImageS3/7.png)
 
 [BACK TO WORKSHOP GUIDE](../../EnglishGuide.md)
+
 [CONTINUE TO NEXT GUIDE](ConfigureApp.md)
+
 [BACK TO PREVIOUS GUIDE](CloudFormationStack.md)

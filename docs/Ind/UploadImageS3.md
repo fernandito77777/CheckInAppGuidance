@@ -13,5 +13,7 @@
     ![](../../images/UploadImageS3/7.png)
 
 [KEMBALI KE PETUNJUK WORKSHOP](../../IndonesiaGuide.md)
+
 [LANJUT KE PETUNJUK SELANJUTNYA](ConfigureApp.md)
+
 [KEMBALI KE PETUNJUK SEBELUMNYA](CloudFormationStack.md)
