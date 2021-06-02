@@ -13,4 +13,5 @@
 - Git
     refer to this page for [installing git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your local computer
 
-[BACK TO WORKSHOP GUIDE](../README.md)
+[BACK TO WORKSHOP GUIDE](../../EnglishGuide.md)
+[CONTINUE TO NEXT GUIDE](CloudFormationStack.md)
