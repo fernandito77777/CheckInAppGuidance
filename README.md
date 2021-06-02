@@ -24,6 +24,7 @@ Here's the reference architecture for the event check in.
 4. Boto3 version 1.17.73
 5. git version 2.23.0
 6. Tested on MacOS environment
+7. using `us-east-1` Region
 
 ---
 

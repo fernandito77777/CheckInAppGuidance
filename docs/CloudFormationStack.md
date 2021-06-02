@@ -1,6 +1,6 @@
 ## Run CloudFormation Stack template for infrastructure
 
-1. Please download [this template file](file/auto-check-in-app.template) on your local computer by right click the hyperlink and choose `Save Link As`
+1. Please download [this template file](../file/auto-check-in-app.template) on your local computer by right click the hyperlink and choose `Save Link As`
 2. go to [AWS Console](https://console.aws.amazon.com/console/home?region=us-east-1#)
 3. open CloudFormation by filling the service name above and type `CloudFormation` and click the section.
     ![](../images/CloudFormationStack/3.png)

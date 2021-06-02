@@ -10,5 +10,6 @@
 6. once uploaded, click `close`
     ![](../images/UploadImageS3/6.png)
 7. if the upload is correct, you won't see your image on the bucket.
+    ![](../images/UploadImageS3/7.png)
 
 [BACK TO WORKSHOP GUIDE](../README.md)
