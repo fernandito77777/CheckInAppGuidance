@@ -42,6 +42,9 @@ Now, we can run the script.
 
 17. Run the following command `./register-operator.sh <your E-mail address>`
 18. Enter your password. Please remember it.
+
+    ![](../images/ConfigureApp/18.png)
+
 19. Open the default.env.json file and copy the file to env.json.
 20. Go to [CloudFormation Console](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks?filteringStatus=active&filteringText=&viewNested=true&hideStacks=false)
 21. click `AutoCheckInAppStack` name
@@ -54,6 +57,8 @@ Now, we can run the script.
     | %%REST_API_ID%%                   | copy `RekognizeFaceApi` value         |
     | %%COGNITO_USER_POOL_ID%%          | copy `CognitoUserPoolId` value        |
     | %%COGNITO_USER_POOL_CLIENT_ID%%   | copy `CognitoUserPoolClientId` value  |
+
+    ![](../images/ConfigureApp/23.png)
 
 24. Open `main.py` file
 25. Replace this code
