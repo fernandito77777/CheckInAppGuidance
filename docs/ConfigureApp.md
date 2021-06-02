@@ -55,5 +55,21 @@ Now, we can run the script.
     | %%COGNITO_USER_POOL_ID%%          | copy `CognitoUserPoolId` value        |
     | %%COGNITO_USER_POOL_CLIENT_ID%%   | copy `CognitoUserPoolClientId` value  |
 
+24. Open `main.py` file
+25. Replace this code
+
+```
+print('OpenCV version: {}'.format(cv2.__version__))
+(major, minor, _) = cv2.__version__.split('.')
+assert major == '4' and minor == '1', 'OpenCV version must be 4.1'
+```
+
+to this code
+
+```
+print('OpenCV version: {}'.format(cv2.__version__))
+(major, minor, _) = cv2.__version__.split('.')
+assert major >= '4' and minor >= '1', 'OpenCV version must be at least 4.1'
+```
 
 [BACK TO WORKSHOP GUIDE](../README.md)
