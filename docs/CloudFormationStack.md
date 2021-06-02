@@ -20,8 +20,7 @@
 This will take a while to set up the stack.
 
 12. Once it's complete, it will display `CREATE_COMPLETE` on the left side of stack
-    ![](../images/CloudFormationStack/13.png)
-
 13. Please click the `Outputs` tab and make sure to not close the page, since you will need it later.
+    ![](../images/CloudFormationStack/13.png)
 
 [BACK TO WORKSHOP GUIDE](../README.md)
