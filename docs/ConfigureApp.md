@@ -6,8 +6,6 @@
 git clone https://github.com/awslabs/auto-check-in-app.git
 ```
 
-    ![](../images/ConfigureApp/1.png)
-
 2. open the folder using your favourite text editor. In this demo, I use Visual Studio Code
 3. After the code is cloned, navigate to the `auto-check-in-app/source/frontend` directory on your terminal. You might use this command `cd auto-check-in-app/source/frontend`
 
