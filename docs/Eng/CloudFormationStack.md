@@ -10,9 +10,11 @@
     ![](../../images/CloudFormationStack/3.png)
 
 4. In prepare template, choose `Template is ready` and click `Upload a template file`
-5. Download [this file](../../Files/auto-check-in-app.template) and click choose file to upload a template file. Please choose the file that you have downloaded. 
+5. Download [this file](../../Files/auto-check-in-app.template) by right clicking the link and open it in a new tab. click raw button and right click the area. save it as `auto-check-in-app.template`. Please don't use `.txt` file. Then, choose the file that you have downloaded in CloudFormation AWS Console page.
 
-5. Copy and paste this S3 URL `https://s3.amazonaws.com/solutions-reference/auto-check-in-app/latest/auto-check-in-app.template`
+    ![](../../images/CloudFormationStack/5-1.png)
+
+    ![](../../images/CloudFormationStack/5-2.png)
 
 6. click `Next`
 

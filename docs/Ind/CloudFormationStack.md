@@ -9,8 +9,14 @@
 
     ![](../../images/CloudFormationStack/3.png)
 
-4. dalam *prepare template*, pilih `Template is ready` dan pilih `Amazon S3 URL`
-5. *Copy* dan *paste* S3 URL ini `https://s3.amazonaws.com/solutions-reference/auto-check-in-app/latest/auto-check-in-app.template`
+4. dalam *prepare template*, pilih `Template is ready` dan pilih `Upload a template file`
+5. Unduh [file ini](../../Files/auto-check-in-app.template) dengan menklik kanan link dan buka pada tab selanjutnya. klik tombol *raw* dan klik kanan pada area kosong. klik *save as* dan simpan nama file sebagai `auto-check-in-app.template`. Mohon untuk tidak menggunakan `.txt` file. Lalu, pilih file yang anda telah unduh dan unggah ke halaman CloudFormation AWS console.
+
+    ![](../../images/CloudFormationStack/5-1.png)
+
+    ![](../../images/CloudFormationStack/5-2.png)
+
+
 6. klik `Next`
 
     ![](../../images/CloudFormationStack/6.png)
