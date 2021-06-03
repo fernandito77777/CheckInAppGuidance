@@ -1,8 +1,8 @@
 ## Ini merupakan petunjuk dari check In App [disini](https://aws.amazon.com/solutions/implementations/auto-check-in-app/?nc1=h_ls#) mohon merujuk ke petunjuk implementasi dalam halaman ini untuk detail selanjutnya.
 
-Check In App adalah aplikasi untuk membandingkan wajah pada saat event check-in. Sewaktu registrasi event, pengguna diharapkan untuk mengambil gambar muka pengguna, dan gambar akan divalidasi pada saat pengguna ingin login atau masuk ke dalam event.
+Check In App adalah aplikasi untuk membandingkan wajah pada saat check-in untuk sebuah acara. Sewaktu registrasi dalam acara, pengguna diharapkan untuk mengambil gambar muka pengguna, dan gambar akan divalidasi pada saat pengguna ingin login atau masuk ke dalam acara.
 
-Berikut adalah referensi mengenai arsitektur untuk event check in.
+Berikut adalah referensi mengenai arsitektur untuk aplikasi acara check-in.
 ![](images/Readme/Architecture.jpg)
 
 ---
