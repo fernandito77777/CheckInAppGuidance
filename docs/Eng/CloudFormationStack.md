@@ -9,8 +9,11 @@
 
     ![](../../images/CloudFormationStack/3.png)
 
-4. In prepare template, choose `Template is ready` and click `Amazon S3 URL`
+4. In prepare template, choose `Template is ready` and click `Upload a template file`
+5. Download [this file](../../Files/auto-check-in-app.template) and click choose file to upload a template file. Please choose the file that you have downloaded. 
+
 5. Copy and paste this S3 URL `https://s3.amazonaws.com/solutions-reference/auto-check-in-app/latest/auto-check-in-app.template`
+
 6. click `Next`
 
     ![](../../images/CloudFormationStack/6.png)
