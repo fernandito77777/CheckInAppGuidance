@@ -6,7 +6,7 @@
 git clone https://github.com/awslabs/auto-check-in-app.git
 ```
 
-2. buka folder yang telah anda *clone* menggunakan *text editor* favorit anda. Dalam demo ini, Saya menggunakan *Visual Studio Code*
+2. buka folder yang telah anda *clone* menggunakan *text editor* favorit anda. Mohon ganti direktory folder anda dalam  ``. Dalam demo ini, Saya menggunakan *Visual Studio Code*
 3. Setelah kode telah di *clone*, navigasikan terminal anda ke `auto-check-in-app/source/frontend`. Anda dapat menggunakan *command* ini `cd auto-check-in-app/source/frontend`
 
     ![](../../images/ConfigureApp/3.png)
@@ -55,9 +55,9 @@ Sekarang, kita dapat jalankan script untuk membuat akun.
     | Nilai                             | Ubah Dengan                           |
     | --------------------------------- | ------------------------------------- |
     | %%REGION%%                        | us-east-1                             |
-    | %%REST_API_ID%%                   | kopi nilai `RekognizeFaceApi`         |
-    | %%COGNITO_USER_POOL_ID%%          | kopi nilai `CognitoUserPoolId`        |
-    | %%COGNITO_USER_POOL_CLIENT_ID%%   | kopi nilai `CognitoUserPoolClientId`  |
+    | %%REST_API_ID%%                   | salin nilai `RekognizeFaceApi`        |
+    | %%COGNITO_USER_POOL_ID%%          | salin nilai `CognitoUserPoolId`       |
+    | %%COGNITO_USER_POOL_CLIENT_ID%%   | salin nilai `CognitoUserPoolClientId` |
 
     ![](../../images/ConfigureApp/23.png)
 
