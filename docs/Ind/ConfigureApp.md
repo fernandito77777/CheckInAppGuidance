@@ -6,7 +6,7 @@
 git clone https://github.com/awslabs/auto-check-in-app.git
 ```
 
-2. buka folder yang telah anda *clone* menggunakan *text editor* favorit anda. Mohon ganti direktory folder anda dalam  ``. Dalam demo ini, Saya menggunakan *Visual Studio Code*
+2. buka folder `auto-check-in-app` yang telah anda *clone* menggunakan *text editor* favorit anda. Dalam demo ini, Saya menggunakan *Visual Studio Code*
 3. Setelah kode telah di *clone*, navigasikan terminal anda ke `auto-check-in-app/source/frontend`. Anda dapat menggunakan *command* ini `cd auto-check-in-app/source/frontend`
 
     ![](../../images/ConfigureApp/3.png)
