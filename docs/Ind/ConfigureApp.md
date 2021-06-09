@@ -18,7 +18,7 @@ git clone https://github.com/awslabs/auto-check-in-app.git
 
     ![](../../images/ConfigureApp/7.png)
 
-Sekarang, kita akan membuat *access key* dan *secret access key* untuk akses ke AWS CLI. Perlu diingat bahwa akun anda harus memiliki akses `Cognito` dan `Lambda`
+Sekarang, kita akan membuat *access key* dan *secret access key* untuk akses ke AWS CLI. Perlu diingat bahwa akun anda harus memiliki akses `Cognito`, `Lambda`, dan `Api Gateway`
 
 8. pergi ke [IAM console](https://console.aws.amazon.com/iam/home?region=us-east-1)
 9. klik `Users` dan klik *username* anda.
