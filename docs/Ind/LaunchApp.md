@@ -1,4 +1,4 @@
-## Meluncurkan dan menjalaknakn aplikasi
+## Meluncurkan dan menjalankan aplikasi
 
 1. dalam lokal terminal anda, jalankan *command* `python3 main.py`
 
